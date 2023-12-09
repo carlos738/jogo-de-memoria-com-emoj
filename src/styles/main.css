@@ -46,8 +46,8 @@ h2{
 }
 
 .reset:focus{
-    color: #ec38bc;
-    background: #262809;
+    color: #fa82da;
+    background: #123e7c;
 }
 
 .game{   
@@ -77,7 +77,7 @@ h2{
     content: "";
     position: absolute;
     inset: 0;
-    background-color: #cf4444;
+    background-color: #c42020;
     
     transition: 0.25s;
     transform: rotateY(0deg);
